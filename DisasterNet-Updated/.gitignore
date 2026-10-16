@@ -1,0 +1,9 @@
+# Java / Maven build output
+/target/
+/work/
+/outputs/
+
+# IDE files
+.idea/
+.vscode/
+*.iml

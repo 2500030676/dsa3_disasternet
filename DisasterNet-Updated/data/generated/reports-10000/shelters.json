@@ -1,0 +1,5 @@
+[
+  {"id":"SH-01","name":"Riverside School Shelter","capacity":350,"occupancy":215},
+  {"id":"SH-02","name":"Hillview Community Hall","capacity":250,"occupancy":170},
+  {"id":"SH-03","name":"Old Town Relief Centre","capacity":500,"occupancy":420}
+]

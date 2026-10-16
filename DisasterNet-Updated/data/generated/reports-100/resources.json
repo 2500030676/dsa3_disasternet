@@ -1,0 +1,6 @@
+[
+  {"id":"SUP-BOAT-01","name":"Rescue Boat","quantity":8,"unitCost":18000},
+  {"id":"SUP-MED-01","name":"Medical Kit","quantity":240,"unitCost":700},
+  {"id":"SUP-WATER-01","name":"Water Unit","quantity":5000,"unitCost":60},
+  {"id":"SUP-FOOD-01","name":"Food Pack","quantity":4000,"unitCost":90}
+]

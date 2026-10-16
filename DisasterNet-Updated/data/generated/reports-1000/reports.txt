@@ -1,0 +1,1000 @@
+INC-00001|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00002|Riverside|Road blocked after landslide in Riverside; rescue vehicle access is delayed.
+INC-00003|Lakeside|Road blocked after landslide in Lakeside; rescue vehicle access is delayed.
+INC-00004|North Colony|Road blocked after landslide in North Colony; rescue vehicle access is delayed.
+INC-00005|North Colony|Road blocked after landslide in North Colony; rescue vehicle access is delayed.
+INC-00006|East Bank|Medical emergency reported at East Bank relief centre; injured people require oxygen support.
+INC-00007|Lakeside|Medical emergency reported at Lakeside relief centre; injured people require oxygen support.
+INC-00008|Greenfield|Fire reported in Greenfield; volunteers are moving residents to the nearest shelter.
+INC-00009|Greenfield|Missing-person request from Greenfield; family last saw residents near an evacuation route.
+INC-00010|Hillview|Road blocked after landslide in Hillview; rescue vehicle access is delayed.
+INC-00011|North Colony|Shelter shortage in North Colony; tents, food, water units and a generator are needed.
+INC-00012|East Bank|Medical emergency reported at East Bank relief centre; injured people require oxygen support.
+INC-00013|North Colony|Cyclone damage near North Colony shelter: roof damaged, food packs and medical kits requested.
+INC-00014|East Bank|Missing-person request from East Bank; family last saw residents near an evacuation route.
+INC-00015|Market Ward|Shelter shortage in Market Ward; tents, food, water units and a generator are needed.
+INC-00016|Riverside|Shelter shortage in Riverside; tents, food, water units and a generator are needed.
+INC-00017|East Bank|Fire reported in East Bank; volunteers are moving residents to the nearest shelter.
+INC-00018|Market Ward|Earthquake aftershock damaged buildings at Market Ward; search teams report trapped residents.
+INC-00019|Greenfield|Missing-person request from Greenfield; family last saw residents near an evacuation route.
+INC-00020|Lakeside|Road blocked after landslide in Lakeside; rescue vehicle access is delayed.
+INC-00021|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00022|Lakeside|Shelter shortage in Lakeside; tents, food, water units and a generator are needed.
+INC-00023|Greenfield|Fire reported in Greenfield; volunteers are moving residents to the nearest shelter.
+INC-00024|Hillview|Medical emergency reported at Hillview relief centre; injured people require oxygen support.
+INC-00025|Greenfield|Medical emergency reported at Greenfield relief centre; injured people require oxygen support.
+INC-00026|Riverside|Shelter shortage in Riverside; tents, food, water units and a generator are needed.
+INC-00027|North Colony|Missing-person request from North Colony; family last saw residents near an evacuation route.
+INC-00028|Market Ward|Shelter shortage in Market Ward; tents, food, water units and a generator are needed.
+INC-00029|Lakeside|Earthquake aftershock damaged buildings at Lakeside; search teams report trapped residents.
+INC-00030|Old Town|Medical emergency reported at Old Town relief centre; injured people require oxygen support.
+INC-00031|Riverside|Flood water entered Riverside homes; 32 residents require evacuation and clean water.
+INC-00032|Lakeside|Medical emergency reported at Lakeside relief centre; injured people require oxygen support.
+INC-00033|Greenfield|Cyclone damage near Greenfield shelter: roof damaged, food packs and medical kits requested.
+INC-00034|Lakeside|Fire reported in Lakeside; volunteers are moving residents to the nearest shelter.
+INC-00035|Riverside|Shelter shortage in Riverside; tents, food, water units and a generator are needed.
+INC-00036|East Bank|Earthquake aftershock damaged buildings at East Bank; search teams report trapped residents.
+INC-00037|Riverside|Cyclone damage near Riverside shelter: roof damaged, food packs and medical kits requested.
+INC-00038|Hillview|Fire reported in Hillview; volunteers are moving residents to the nearest shelter.
+INC-00039|Greenfield|Missing-person request from Greenfield; family last saw residents near an evacuation route.
+INC-00040|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00041|Greenfield|Earthquake aftershock damaged buildings at Greenfield; search teams report trapped residents.
+INC-00042|Hillview|Shelter shortage in Hillview; tents, food, water units and a generator are needed.
+INC-00043|Greenfield|Road blocked after landslide in Greenfield; rescue vehicle access is delayed.
+INC-00044|Greenfield|Road blocked after landslide in Greenfield; rescue vehicle access is delayed.
+INC-00045|North Colony|Flood water entered North Colony homes; 24 residents require evacuation and clean water.
+INC-00046|Market Ward|Road blocked after landslide in Market Ward; rescue vehicle access is delayed.
+INC-00047|Market Ward|Cyclone damage near Market Ward shelter: roof damaged, food packs and medical kits requested.
+INC-00048|East Bank|Fire reported in East Bank; volunteers are moving residents to the nearest shelter.
+INC-00049|Lakeside|Cyclone damage near Lakeside shelter: roof damaged, food packs and medical kits requested.
+INC-00050|Lakeside|Fire reported in Lakeside; volunteers are moving residents to the nearest shelter.
+INC-00051|North Colony|Shelter shortage in North Colony; tents, food, water units and a generator are needed.
+INC-00052|Greenfield|Missing-person request from Greenfield; family last saw residents near an evacuation route.
+INC-00053|Lakeside|Fire reported in Lakeside; volunteers are moving residents to the nearest shelter.
+INC-00054|Old Town|Earthquake aftershock damaged buildings at Old Town; search teams report trapped residents.
+INC-00055|Lakeside|Flood water entered Lakeside homes; 12 residents require evacuation and clean water.
+INC-00056|Old Town|Cyclone damage near Old Town shelter: roof damaged, food packs and medical kits requested.
+INC-00057|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00058|Market Ward|Missing-person request from Market Ward; family last saw residents near an evacuation route.
+INC-00059|Old Town|Road blocked after landslide in Old Town; rescue vehicle access is delayed.
+INC-00060|Lakeside|Earthquake aftershock damaged buildings at Lakeside; search teams report trapped residents.
+INC-00061|North Colony|Medical emergency reported at North Colony relief centre; injured people require oxygen support.
+INC-00062|Old Town|Medical emergency reported at Old Town relief centre; injured people require oxygen support.
+INC-00063|Hillview|Flood water entered Hillview homes; 18 residents require evacuation and clean water.
+INC-00064|Lakeside|Flood water entered Lakeside homes; 58 residents require evacuation and clean water.
+INC-00065|East Bank|Medical emergency reported at East Bank relief centre; injured people require oxygen support.
+INC-00066|Lakeside|Cyclone damage near Lakeside shelter: roof damaged, food packs and medical kits requested.
+INC-00067|Lakeside|Cyclone damage near Lakeside shelter: roof damaged, food packs and medical kits requested.
+INC-00068|North Colony|Cyclone damage near North Colony shelter: roof damaged, food packs and medical kits requested.
+INC-00069|Riverside|Medical emergency reported at Riverside relief centre; injured people require oxygen support.
+INC-00070|Hillview|Shelter shortage in Hillview; tents, food, water units and a generator are needed.
+INC-00071|East Bank|Cyclone damage near East Bank shelter: roof damaged, food packs and medical kits requested.
+INC-00072|East Bank|Earthquake aftershock damaged buildings at East Bank; search teams report trapped residents.
+INC-00073|Lakeside|Medical emergency reported at Lakeside relief centre; injured people require oxygen support.
+INC-00074|Riverside|Shelter shortage in Riverside; tents, food, water units and a generator are needed.
+INC-00075|Old Town|Cyclone damage near Old Town shelter: roof damaged, food packs and medical kits requested.
+INC-00076|Riverside|Road blocked after landslide in Riverside; rescue vehicle access is delayed.
+INC-00077|Lakeside|Flood water entered Lakeside homes; 65 residents require evacuation and clean water.
+INC-00078|North Colony|Fire reported in North Colony; volunteers are moving residents to the nearest shelter.
+INC-00079|Greenfield|Cyclone damage near Greenfield shelter: roof damaged, food packs and medical kits requested.
+INC-00080|Riverside|Missing-person request from Riverside; family last saw residents near an evacuation route.
+INC-00081|North Colony|Fire reported in North Colony; volunteers are moving residents to the nearest shelter.
+INC-00082|Old Town|Shelter shortage in Old Town; tents, food, water units and a generator are needed.
+INC-00083|East Bank|Flood water entered East Bank homes; 4 residents require evacuation and clean water.
+INC-00084|Lakeside|Road blocked after landslide in Lakeside; rescue vehicle access is delayed.
+INC-00085|Old Town|Road blocked after landslide in Old Town; rescue vehicle access is delayed.
+INC-00086|Old Town|Fire reported in Old Town; volunteers are moving residents to the nearest shelter.
+INC-00087|North Colony|Medical emergency reported at North Colony relief centre; injured people require oxygen support.
+INC-00088|Lakeside|Medical emergency reported at Lakeside relief centre; injured people require oxygen support.
+INC-00089|Old Town|Fire reported in Old Town; volunteers are moving residents to the nearest shelter.
+INC-00090|East Bank|Flood water entered East Bank homes; 80 residents require evacuation and clean water.
+INC-00091|Lakeside|Shelter shortage in Lakeside; tents, food, water units and a generator are needed.
+INC-00092|North Colony|Earthquake aftershock damaged buildings at North Colony; search teams report trapped residents.
+INC-00093|East Bank|Missing-person request from East Bank; family last saw residents near an evacuation route.
+INC-00094|Lakeside|Fire reported in Lakeside; volunteers are moving residents to the nearest shelter.
+INC-00095|Riverside|Missing-person request from Riverside; family last saw residents near an evacuation route.
+INC-00096|North Colony|Earthquake aftershock damaged buildings at North Colony; search teams report trapped residents.
+INC-00097|Riverside|Road blocked after landslide in Riverside; rescue vehicle access is delayed.
+INC-00098|Greenfield|Fire reported in Greenfield; volunteers are moving residents to the nearest shelter.
+INC-00099|Hillview|Flood water entered Hillview homes; 35 residents require evacuation and clean water.
+INC-00100|Hillview|Flood water entered Hillview homes; 41 residents require evacuation and clean water.
+INC-00101|Old Town|Shelter shortage in Old Town; tents, food, water units and a generator are needed.
+INC-00102|Market Ward|Medical emergency reported at Market Ward relief centre; injured people require oxygen support.
+INC-00103|Old Town|Missing-person request from Old Town; family last saw residents near an evacuation route.
+INC-00104|Market Ward|Flood water entered Market Ward homes; 49 residents require evacuation and clean water.
+INC-00105|Market Ward|Medical emergency reported at Market Ward relief centre; injured people require oxygen support.
+INC-00106|Lakeside|Fire reported in Lakeside; volunteers are moving residents to the nearest shelter.
+INC-00107|North Colony|Earthquake aftershock damaged buildings at North Colony; search teams report trapped residents.
+INC-00108|Riverside|Medical emergency reported at Riverside relief centre; injured people require oxygen support.
+INC-00109|North Colony|Fire reported in North Colony; volunteers are moving residents to the nearest shelter.
+INC-00110|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00111|Old Town|Earthquake aftershock damaged buildings at Old Town; search teams report trapped residents.
+INC-00112|Market Ward|Road blocked after landslide in Market Ward; rescue vehicle access is delayed.
+INC-00113|Hillview|Cyclone damage near Hillview shelter: roof damaged, food packs and medical kits requested.
+INC-00114|Old Town|Shelter shortage in Old Town; tents, food, water units and a generator are needed.
+INC-00115|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00116|Old Town|Medical emergency reported at Old Town relief centre; injured people require oxygen support.
+INC-00117|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00118|Hillview|Medical emergency reported at Hillview relief centre; injured people require oxygen support.
+INC-00119|East Bank|Shelter shortage in East Bank; tents, food, water units and a generator are needed.
+INC-00120|Lakeside|Shelter shortage in Lakeside; tents, food, water units and a generator are needed.
+INC-00121|North Colony|Earthquake aftershock damaged buildings at North Colony; search teams report trapped residents.
+INC-00122|Lakeside|Missing-person request from Lakeside; family last saw residents near an evacuation route.
+INC-00123|Market Ward|Road blocked after landslide in Market Ward; rescue vehicle access is delayed.
+INC-00124|North Colony|Missing-person request from North Colony; family last saw residents near an evacuation route.
+INC-00125|North Colony|Earthquake aftershock damaged buildings at North Colony; search teams report trapped residents.
+INC-00126|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00127|Riverside|Cyclone damage near Riverside shelter: roof damaged, food packs and medical kits requested.
+INC-00128|Lakeside|Missing-person request from Lakeside; family last saw residents near an evacuation route.
+INC-00129|North Colony|Flood water entered North Colony homes; 66 residents require evacuation and clean water.
+INC-00130|Greenfield|Medical emergency reported at Greenfield relief centre; injured people require oxygen support.
+INC-00131|Riverside|Shelter shortage in Riverside; tents, food, water units and a generator are needed.
+INC-00132|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00133|North Colony|Road blocked after landslide in North Colony; rescue vehicle access is delayed.
+INC-00134|North Colony|Flood water entered North Colony homes; 9 residents require evacuation and clean water.
+INC-00135|East Bank|Fire reported in East Bank; volunteers are moving residents to the nearest shelter.
+INC-00136|Greenfield|Fire reported in Greenfield; volunteers are moving residents to the nearest shelter.
+INC-00137|Hillview|Cyclone damage near Hillview shelter: roof damaged, food packs and medical kits requested.
+INC-00138|East Bank|Medical emergency reported at East Bank relief centre; injured people require oxygen support.
+INC-00139|Lakeside|Medical emergency reported at Lakeside relief centre; injured people require oxygen support.
+INC-00140|Hillview|Earthquake aftershock damaged buildings at Hillview; search teams report trapped residents.
+INC-00141|North Colony|Flood water entered North Colony homes; 20 residents require evacuation and clean water.
+INC-00142|North Colony|Road blocked after landslide in North Colony; rescue vehicle access is delayed.
+INC-00143|Old Town|Missing-person request from Old Town; family last saw residents near an evacuation route.
+INC-00144|Lakeside|Missing-person request from Lakeside; family last saw residents near an evacuation route.
+INC-00145|Hillview|Cyclone damage near Hillview shelter: roof damaged, food packs and medical kits requested.
+INC-00146|Greenfield|Earthquake aftershock damaged buildings at Greenfield; search teams report trapped residents.
+INC-00147|Greenfield|Earthquake aftershock damaged buildings at Greenfield; search teams report trapped residents.
+INC-00148|Hillview|Road blocked after landslide in Hillview; rescue vehicle access is delayed.
+INC-00149|Lakeside|Fire reported in Lakeside; volunteers are moving residents to the nearest shelter.
+INC-00150|Hillview|Missing-person request from Hillview; family last saw residents near an evacuation route.
+INC-00151|Hillview|Fire reported in Hillview; volunteers are moving residents to the nearest shelter.
+INC-00152|Old Town|Missing-person request from Old Town; family last saw residents near an evacuation route.
+INC-00153|East Bank|Earthquake aftershock damaged buildings at East Bank; search teams report trapped residents.
+INC-00154|Hillview|Shelter shortage in Hillview; tents, food, water units and a generator are needed.
+INC-00155|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00156|Greenfield|Road blocked after landslide in Greenfield; rescue vehicle access is delayed.
+INC-00157|Hillview|Medical emergency reported at Hillview relief centre; injured people require oxygen support.
+INC-00158|Hillview|Earthquake aftershock damaged buildings at Hillview; search teams report trapped residents.
+INC-00159|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00160|Market Ward|Medical emergency reported at Market Ward relief centre; injured people require oxygen support.
+INC-00161|Market Ward|Flood water entered Market Ward homes; 78 residents require evacuation and clean water.
+INC-00162|Market Ward|Road blocked after landslide in Market Ward; rescue vehicle access is delayed.
+INC-00163|Lakeside|Cyclone damage near Lakeside shelter: roof damaged, food packs and medical kits requested.
+INC-00164|Riverside|Earthquake aftershock damaged buildings at Riverside; search teams report trapped residents.
+INC-00165|Market Ward|Medical emergency reported at Market Ward relief centre; injured people require oxygen support.
+INC-00166|Riverside|Fire reported in Riverside; volunteers are moving residents to the nearest shelter.
+INC-00167|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00168|Lakeside|Medical emergency reported at Lakeside relief centre; injured people require oxygen support.
+INC-00169|East Bank|Earthquake aftershock damaged buildings at East Bank; search teams report trapped residents.
+INC-00170|East Bank|Shelter shortage in East Bank; tents, food, water units and a generator are needed.
+INC-00171|East Bank|Flood water entered East Bank homes; 56 residents require evacuation and clean water.
+INC-00172|Greenfield|Medical emergency reported at Greenfield relief centre; injured people require oxygen support.
+INC-00173|Lakeside|Shelter shortage in Lakeside; tents, food, water units and a generator are needed.
+INC-00174|Old Town|Fire reported in Old Town; volunteers are moving residents to the nearest shelter.
+INC-00175|Riverside|Earthquake aftershock damaged buildings at Riverside; search teams report trapped residents.
+INC-00176|Riverside|Earthquake aftershock damaged buildings at Riverside; search teams report trapped residents.
+INC-00177|East Bank|Earthquake aftershock damaged buildings at East Bank; search teams report trapped residents.
+INC-00178|North Colony|Medical emergency reported at North Colony relief centre; injured people require oxygen support.
+INC-00179|Market Ward|Medical emergency reported at Market Ward relief centre; injured people require oxygen support.
+INC-00180|Hillview|Medical emergency reported at Hillview relief centre; injured people require oxygen support.
+INC-00181|Old Town|Missing-person request from Old Town; family last saw residents near an evacuation route.
+INC-00182|East Bank|Cyclone damage near East Bank shelter: roof damaged, food packs and medical kits requested.
+INC-00183|East Bank|Flood water entered East Bank homes; 32 residents require evacuation and clean water.
+INC-00184|Greenfield|Earthquake aftershock damaged buildings at Greenfield; search teams report trapped residents.
+INC-00185|Greenfield|Flood water entered Greenfield homes; 65 residents require evacuation and clean water.
+INC-00186|Greenfield|Earthquake aftershock damaged buildings at Greenfield; search teams report trapped residents.
+INC-00187|North Colony|Fire reported in North Colony; volunteers are moving residents to the nearest shelter.
+INC-00188|Market Ward|Cyclone damage near Market Ward shelter: roof damaged, food packs and medical kits requested.
+INC-00189|Lakeside|Earthquake aftershock damaged buildings at Lakeside; search teams report trapped residents.
+INC-00190|Old Town|Cyclone damage near Old Town shelter: roof damaged, food packs and medical kits requested.
+INC-00191|East Bank|Fire reported in East Bank; volunteers are moving residents to the nearest shelter.
+INC-00192|Greenfield|Medical emergency reported at Greenfield relief centre; injured people require oxygen support.
+INC-00193|North Colony|Medical emergency reported at North Colony relief centre; injured people require oxygen support.
+INC-00194|Old Town|Missing-person request from Old Town; family last saw residents near an evacuation route.
+INC-00195|Greenfield|Medical emergency reported at Greenfield relief centre; injured people require oxygen support.
+INC-00196|Old Town|Earthquake aftershock damaged buildings at Old Town; search teams report trapped residents.
+INC-00197|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00198|Lakeside|Shelter shortage in Lakeside; tents, food, water units and a generator are needed.
+INC-00199|Lakeside|Cyclone damage near Lakeside shelter: roof damaged, food packs and medical kits requested.
+INC-00200|Old Town|Road blocked after landslide in Old Town; rescue vehicle access is delayed.
+INC-00201|Hillview|Fire reported in Hillview; volunteers are moving residents to the nearest shelter.
+INC-00202|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00203|Old Town|Shelter shortage in Old Town; tents, food, water units and a generator are needed.
+INC-00204|North Colony|Shelter shortage in North Colony; tents, food, water units and a generator are needed.
+INC-00205|Old Town|Cyclone damage near Old Town shelter: roof damaged, food packs and medical kits requested.
+INC-00206|Market Ward|Flood water entered Market Ward homes; 14 residents require evacuation and clean water.
+INC-00207|Old Town|Shelter shortage in Old Town; tents, food, water units and a generator are needed.
+INC-00208|Lakeside|Earthquake aftershock damaged buildings at Lakeside; search teams report trapped residents.
+INC-00209|East Bank|Missing-person request from East Bank; family last saw residents near an evacuation route.
+INC-00210|Riverside|Earthquake aftershock damaged buildings at Riverside; search teams report trapped residents.
+INC-00211|Riverside|Fire reported in Riverside; volunteers are moving residents to the nearest shelter.
+INC-00212|Hillview|Medical emergency reported at Hillview relief centre; injured people require oxygen support.
+INC-00213|Market Ward|Cyclone damage near Market Ward shelter: roof damaged, food packs and medical kits requested.
+INC-00214|Hillview|Earthquake aftershock damaged buildings at Hillview; search teams report trapped residents.
+INC-00215|Market Ward|Cyclone damage near Market Ward shelter: roof damaged, food packs and medical kits requested.
+INC-00216|Hillview|Shelter shortage in Hillview; tents, food, water units and a generator are needed.
+INC-00217|Hillview|Cyclone damage near Hillview shelter: roof damaged, food packs and medical kits requested.
+INC-00218|Hillview|Medical emergency reported at Hillview relief centre; injured people require oxygen support.
+INC-00219|Old Town|Cyclone damage near Old Town shelter: roof damaged, food packs and medical kits requested.
+INC-00220|Old Town|Fire reported in Old Town; volunteers are moving residents to the nearest shelter.
+INC-00221|Riverside|Road blocked after landslide in Riverside; rescue vehicle access is delayed.
+INC-00222|Hillview|Earthquake aftershock damaged buildings at Hillview; search teams report trapped residents.
+INC-00223|Greenfield|Fire reported in Greenfield; volunteers are moving residents to the nearest shelter.
+INC-00224|Lakeside|Shelter shortage in Lakeside; tents, food, water units and a generator are needed.
+INC-00225|Riverside|Flood water entered Riverside homes; 43 residents require evacuation and clean water.
+INC-00226|Market Ward|Road blocked after landslide in Market Ward; rescue vehicle access is delayed.
+INC-00227|Market Ward|Cyclone damage near Market Ward shelter: roof damaged, food packs and medical kits requested.
+INC-00228|Hillview|Cyclone damage near Hillview shelter: roof damaged, food packs and medical kits requested.
+INC-00229|Greenfield|Missing-person request from Greenfield; family last saw residents near an evacuation route.
+INC-00230|East Bank|Fire reported in East Bank; volunteers are moving residents to the nearest shelter.
+INC-00231|Market Ward|Cyclone damage near Market Ward shelter: roof damaged, food packs and medical kits requested.
+INC-00232|Market Ward|Cyclone damage near Market Ward shelter: roof damaged, food packs and medical kits requested.
+INC-00233|North Colony|Road blocked after landslide in North Colony; rescue vehicle access is delayed.
+INC-00234|East Bank|Flood water entered East Bank homes; 4 residents require evacuation and clean water.
+INC-00235|Market Ward|Flood water entered Market Ward homes; 53 residents require evacuation and clean water.
+INC-00236|Lakeside|Road blocked after landslide in Lakeside; rescue vehicle access is delayed.
+INC-00237|Riverside|Road blocked after landslide in Riverside; rescue vehicle access is delayed.
+INC-00238|Riverside|Cyclone damage near Riverside shelter: roof damaged, food packs and medical kits requested.
+INC-00239|Hillview|Earthquake aftershock damaged buildings at Hillview; search teams report trapped residents.
+INC-00240|Old Town|Fire reported in Old Town; volunteers are moving residents to the nearest shelter.
+INC-00241|Old Town|Road blocked after landslide in Old Town; rescue vehicle access is delayed.
+INC-00242|Riverside|Missing-person request from Riverside; family last saw residents near an evacuation route.
+INC-00243|Riverside|Missing-person request from Riverside; family last saw residents near an evacuation route.
+INC-00244|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00245|East Bank|Missing-person request from East Bank; family last saw residents near an evacuation route.
+INC-00246|Lakeside|Fire reported in Lakeside; volunteers are moving residents to the nearest shelter.
+INC-00247|Riverside|Medical emergency reported at Riverside relief centre; injured people require oxygen support.
+INC-00248|Market Ward|Shelter shortage in Market Ward; tents, food, water units and a generator are needed.
+INC-00249|Riverside|Shelter shortage in Riverside; tents, food, water units and a generator are needed.
+INC-00250|Greenfield|Earthquake aftershock damaged buildings at Greenfield; search teams report trapped residents.
+INC-00251|Lakeside|Shelter shortage in Lakeside; tents, food, water units and a generator are needed.
+INC-00252|Hillview|Medical emergency reported at Hillview relief centre; injured people require oxygen support.
+INC-00253|North Colony|Fire reported in North Colony; volunteers are moving residents to the nearest shelter.
+INC-00254|Market Ward|Missing-person request from Market Ward; family last saw residents near an evacuation route.
+INC-00255|Riverside|Medical emergency reported at Riverside relief centre; injured people require oxygen support.
+INC-00256|Riverside|Flood water entered Riverside homes; 11 residents require evacuation and clean water.
+INC-00257|Greenfield|Medical emergency reported at Greenfield relief centre; injured people require oxygen support.
+INC-00258|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00259|Greenfield|Road blocked after landslide in Greenfield; rescue vehicle access is delayed.
+INC-00260|Riverside|Shelter shortage in Riverside; tents, food, water units and a generator are needed.
+INC-00261|Market Ward|Medical emergency reported at Market Ward relief centre; injured people require oxygen support.
+INC-00262|Market Ward|Shelter shortage in Market Ward; tents, food, water units and a generator are needed.
+INC-00263|Greenfield|Flood water entered Greenfield homes; 36 residents require evacuation and clean water.
+INC-00264|Greenfield|Cyclone damage near Greenfield shelter: roof damaged, food packs and medical kits requested.
+INC-00265|Old Town|Earthquake aftershock damaged buildings at Old Town; search teams report trapped residents.
+INC-00266|Greenfield|Missing-person request from Greenfield; family last saw residents near an evacuation route.
+INC-00267|Riverside|Shelter shortage in Riverside; tents, food, water units and a generator are needed.
+INC-00268|Hillview|Missing-person request from Hillview; family last saw residents near an evacuation route.
+INC-00269|North Colony|Flood water entered North Colony homes; 46 residents require evacuation and clean water.
+INC-00270|Greenfield|Cyclone damage near Greenfield shelter: roof damaged, food packs and medical kits requested.
+INC-00271|Lakeside|Missing-person request from Lakeside; family last saw residents near an evacuation route.
+INC-00272|Riverside|Shelter shortage in Riverside; tents, food, water units and a generator are needed.
+INC-00273|Old Town|Flood water entered Old Town homes; 26 residents require evacuation and clean water.
+INC-00274|Market Ward|Medical emergency reported at Market Ward relief centre; injured people require oxygen support.
+INC-00275|Market Ward|Earthquake aftershock damaged buildings at Market Ward; search teams report trapped residents.
+INC-00276|Hillview|Medical emergency reported at Hillview relief centre; injured people require oxygen support.
+INC-00277|North Colony|Medical emergency reported at North Colony relief centre; injured people require oxygen support.
+INC-00278|Market Ward|Road blocked after landslide in Market Ward; rescue vehicle access is delayed.
+INC-00279|North Colony|Missing-person request from North Colony; family last saw residents near an evacuation route.
+INC-00280|North Colony|Fire reported in North Colony; volunteers are moving residents to the nearest shelter.
+INC-00281|North Colony|Shelter shortage in North Colony; tents, food, water units and a generator are needed.
+INC-00282|Old Town|Cyclone damage near Old Town shelter: roof damaged, food packs and medical kits requested.
+INC-00283|Greenfield|Flood water entered Greenfield homes; 79 residents require evacuation and clean water.
+INC-00284|Old Town|Earthquake aftershock damaged buildings at Old Town; search teams report trapped residents.
+INC-00285|East Bank|Missing-person request from East Bank; family last saw residents near an evacuation route.
+INC-00286|Lakeside|Medical emergency reported at Lakeside relief centre; injured people require oxygen support.
+INC-00287|Hillview|Flood water entered Hillview homes; 11 residents require evacuation and clean water.
+INC-00288|Old Town|Medical emergency reported at Old Town relief centre; injured people require oxygen support.
+INC-00289|Hillview|Missing-person request from Hillview; family last saw residents near an evacuation route.
+INC-00290|Greenfield|Missing-person request from Greenfield; family last saw residents near an evacuation route.
+INC-00291|Old Town|Road blocked after landslide in Old Town; rescue vehicle access is delayed.
+INC-00292|Hillview|Earthquake aftershock damaged buildings at Hillview; search teams report trapped residents.
+INC-00293|Greenfield|Missing-person request from Greenfield; family last saw residents near an evacuation route.
+INC-00294|Lakeside|Flood water entered Lakeside homes; 38 residents require evacuation and clean water.
+INC-00295|Lakeside|Fire reported in Lakeside; volunteers are moving residents to the nearest shelter.
+INC-00296|Riverside|Cyclone damage near Riverside shelter: roof damaged, food packs and medical kits requested.
+INC-00297|East Bank|Road blocked after landslide in East Bank; rescue vehicle access is delayed.
+INC-00298|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00299|East Bank|Medical emergency reported at East Bank relief centre; injured people require oxygen support.
+INC-00300|Hillview|Missing-person request from Hillview; family last saw residents near an evacuation route.
+INC-00301|Lakeside|Missing-person request from Lakeside; family last saw residents near an evacuation route.
+INC-00302|Market Ward|Flood water entered Market Ward homes; 78 residents require evacuation and clean water.
+INC-00303|North Colony|Shelter shortage in North Colony; tents, food, water units and a generator are needed.
+INC-00304|Riverside|Missing-person request from Riverside; family last saw residents near an evacuation route.
+INC-00305|Lakeside|Road blocked after landslide in Lakeside; rescue vehicle access is delayed.
+INC-00306|Lakeside|Road blocked after landslide in Lakeside; rescue vehicle access is delayed.
+INC-00307|North Colony|Fire reported in North Colony; volunteers are moving residents to the nearest shelter.
+INC-00308|Riverside|Flood water entered Riverside homes; 79 residents require evacuation and clean water.
+INC-00309|Greenfield|Missing-person request from Greenfield; family last saw residents near an evacuation route.
+INC-00310|Greenfield|Medical emergency reported at Greenfield relief centre; injured people require oxygen support.
+INC-00311|East Bank|Road blocked after landslide in East Bank; rescue vehicle access is delayed.
+INC-00312|North Colony|Shelter shortage in North Colony; tents, food, water units and a generator are needed.
+INC-00313|Market Ward|Earthquake aftershock damaged buildings at Market Ward; search teams report trapped residents.
+INC-00314|Greenfield|Cyclone damage near Greenfield shelter: roof damaged, food packs and medical kits requested.
+INC-00315|Greenfield|Road blocked after landslide in Greenfield; rescue vehicle access is delayed.
+INC-00316|Market Ward|Cyclone damage near Market Ward shelter: roof damaged, food packs and medical kits requested.
+INC-00317|East Bank|Flood water entered East Bank homes; 43 residents require evacuation and clean water.
+INC-00318|East Bank|Road blocked after landslide in East Bank; rescue vehicle access is delayed.
+INC-00319|Old Town|Medical emergency reported at Old Town relief centre; injured people require oxygen support.
+INC-00320|North Colony|Missing-person request from North Colony; family last saw residents near an evacuation route.
+INC-00321|Greenfield|Cyclone damage near Greenfield shelter: roof damaged, food packs and medical kits requested.
+INC-00322|Lakeside|Fire reported in Lakeside; volunteers are moving residents to the nearest shelter.
+INC-00323|East Bank|Missing-person request from East Bank; family last saw residents near an evacuation route.
+INC-00324|Old Town|Cyclone damage near Old Town shelter: roof damaged, food packs and medical kits requested.
+INC-00325|Lakeside|Fire reported in Lakeside; volunteers are moving residents to the nearest shelter.
+INC-00326|Riverside|Flood water entered Riverside homes; 25 residents require evacuation and clean water.
+INC-00327|Riverside|Road blocked after landslide in Riverside; rescue vehicle access is delayed.
+INC-00328|Hillview|Earthquake aftershock damaged buildings at Hillview; search teams report trapped residents.
+INC-00329|North Colony|Road blocked after landslide in North Colony; rescue vehicle access is delayed.
+INC-00330|Riverside|Cyclone damage near Riverside shelter: roof damaged, food packs and medical kits requested.
+INC-00331|Old Town|Cyclone damage near Old Town shelter: roof damaged, food packs and medical kits requested.
+INC-00332|Old Town|Cyclone damage near Old Town shelter: roof damaged, food packs and medical kits requested.
+INC-00333|Riverside|Shelter shortage in Riverside; tents, food, water units and a generator are needed.
+INC-00334|East Bank|Road blocked after landslide in East Bank; rescue vehicle access is delayed.
+INC-00335|North Colony|Road blocked after landslide in North Colony; rescue vehicle access is delayed.
+INC-00336|Greenfield|Flood water entered Greenfield homes; 52 residents require evacuation and clean water.
+INC-00337|Lakeside|Medical emergency reported at Lakeside relief centre; injured people require oxygen support.
+INC-00338|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00339|East Bank|Fire reported in East Bank; volunteers are moving residents to the nearest shelter.
+INC-00340|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00341|Riverside|Cyclone damage near Riverside shelter: roof damaged, food packs and medical kits requested.
+INC-00342|Greenfield|Earthquake aftershock damaged buildings at Greenfield; search teams report trapped residents.
+INC-00343|East Bank|Earthquake aftershock damaged buildings at East Bank; search teams report trapped residents.
+INC-00344|Old Town|Missing-person request from Old Town; family last saw residents near an evacuation route.
+INC-00345|East Bank|Missing-person request from East Bank; family last saw residents near an evacuation route.
+INC-00346|East Bank|Road blocked after landslide in East Bank; rescue vehicle access is delayed.
+INC-00347|Market Ward|Road blocked after landslide in Market Ward; rescue vehicle access is delayed.
+INC-00348|Riverside|Medical emergency reported at Riverside relief centre; injured people require oxygen support.
+INC-00349|Greenfield|Medical emergency reported at Greenfield relief centre; injured people require oxygen support.
+INC-00350|North Colony|Cyclone damage near North Colony shelter: roof damaged, food packs and medical kits requested.
+INC-00351|Old Town|Flood water entered Old Town homes; 27 residents require evacuation and clean water.
+INC-00352|Riverside|Cyclone damage near Riverside shelter: roof damaged, food packs and medical kits requested.
+INC-00353|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00354|Riverside|Flood water entered Riverside homes; 64 residents require evacuation and clean water.
+INC-00355|Old Town|Fire reported in Old Town; volunteers are moving residents to the nearest shelter.
+INC-00356|Hillview|Medical emergency reported at Hillview relief centre; injured people require oxygen support.
+INC-00357|Greenfield|Flood water entered Greenfield homes; 11 residents require evacuation and clean water.
+INC-00358|Old Town|Shelter shortage in Old Town; tents, food, water units and a generator are needed.
+INC-00359|Lakeside|Road blocked after landslide in Lakeside; rescue vehicle access is delayed.
+INC-00360|Market Ward|Missing-person request from Market Ward; family last saw residents near an evacuation route.
+INC-00361|Market Ward|Cyclone damage near Market Ward shelter: roof damaged, food packs and medical kits requested.
+INC-00362|Lakeside|Fire reported in Lakeside; volunteers are moving residents to the nearest shelter.
+INC-00363|East Bank|Fire reported in East Bank; volunteers are moving residents to the nearest shelter.
+INC-00364|North Colony|Medical emergency reported at North Colony relief centre; injured people require oxygen support.
+INC-00365|Greenfield|Earthquake aftershock damaged buildings at Greenfield; search teams report trapped residents.
+INC-00366|Greenfield|Earthquake aftershock damaged buildings at Greenfield; search teams report trapped residents.
+INC-00367|Lakeside|Earthquake aftershock damaged buildings at Lakeside; search teams report trapped residents.
+INC-00368|North Colony|Flood water entered North Colony homes; 29 residents require evacuation and clean water.
+INC-00369|Hillview|Road blocked after landslide in Hillview; rescue vehicle access is delayed.
+INC-00370|North Colony|Earthquake aftershock damaged buildings at North Colony; search teams report trapped residents.
+INC-00371|Greenfield|Medical emergency reported at Greenfield relief centre; injured people require oxygen support.
+INC-00372|Riverside|Missing-person request from Riverside; family last saw residents near an evacuation route.
+INC-00373|Hillview|Shelter shortage in Hillview; tents, food, water units and a generator are needed.
+INC-00374|Old Town|Missing-person request from Old Town; family last saw residents near an evacuation route.
+INC-00375|Greenfield|Cyclone damage near Greenfield shelter: roof damaged, food packs and medical kits requested.
+INC-00376|East Bank|Road blocked after landslide in East Bank; rescue vehicle access is delayed.
+INC-00377|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00378|North Colony|Cyclone damage near North Colony shelter: roof damaged, food packs and medical kits requested.
+INC-00379|Lakeside|Road blocked after landslide in Lakeside; rescue vehicle access is delayed.
+INC-00380|Old Town|Medical emergency reported at Old Town relief centre; injured people require oxygen support.
+INC-00381|Riverside|Flood water entered Riverside homes; 72 residents require evacuation and clean water.
+INC-00382|Riverside|Road blocked after landslide in Riverside; rescue vehicle access is delayed.
+INC-00383|Lakeside|Medical emergency reported at Lakeside relief centre; injured people require oxygen support.
+INC-00384|Lakeside|Cyclone damage near Lakeside shelter: roof damaged, food packs and medical kits requested.
+INC-00385|Market Ward|Road blocked after landslide in Market Ward; rescue vehicle access is delayed.
+INC-00386|Hillview|Earthquake aftershock damaged buildings at Hillview; search teams report trapped residents.
+INC-00387|North Colony|Flood water entered North Colony homes; 69 residents require evacuation and clean water.
+INC-00388|East Bank|Earthquake aftershock damaged buildings at East Bank; search teams report trapped residents.
+INC-00389|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00390|Market Ward|Cyclone damage near Market Ward shelter: roof damaged, food packs and medical kits requested.
+INC-00391|North Colony|Shelter shortage in North Colony; tents, food, water units and a generator are needed.
+INC-00392|Old Town|Earthquake aftershock damaged buildings at Old Town; search teams report trapped residents.
+INC-00393|North Colony|Fire reported in North Colony; volunteers are moving residents to the nearest shelter.
+INC-00394|Lakeside|Missing-person request from Lakeside; family last saw residents near an evacuation route.
+INC-00395|Riverside|Missing-person request from Riverside; family last saw residents near an evacuation route.
+INC-00396|Old Town|Flood water entered Old Town homes; 68 residents require evacuation and clean water.
+INC-00397|Market Ward|Flood water entered Market Ward homes; 3 residents require evacuation and clean water.
+INC-00398|Riverside|Road blocked after landslide in Riverside; rescue vehicle access is delayed.
+INC-00399|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00400|Greenfield|Flood water entered Greenfield homes; 47 residents require evacuation and clean water.
+INC-00401|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00402|Market Ward|Medical emergency reported at Market Ward relief centre; injured people require oxygen support.
+INC-00403|Lakeside|Road blocked after landslide in Lakeside; rescue vehicle access is delayed.
+INC-00404|East Bank|Missing-person request from East Bank; family last saw residents near an evacuation route.
+INC-00405|Hillview|Flood water entered Hillview homes; 6 residents require evacuation and clean water.
+INC-00406|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00407|Riverside|Shelter shortage in Riverside; tents, food, water units and a generator are needed.
+INC-00408|Old Town|Fire reported in Old Town; volunteers are moving residents to the nearest shelter.
+INC-00409|Hillview|Road blocked after landslide in Hillview; rescue vehicle access is delayed.
+INC-00410|Market Ward|Cyclone damage near Market Ward shelter: roof damaged, food packs and medical kits requested.
+INC-00411|Riverside|Road blocked after landslide in Riverside; rescue vehicle access is delayed.
+INC-00412|Greenfield|Medical emergency reported at Greenfield relief centre; injured people require oxygen support.
+INC-00413|East Bank|Cyclone damage near East Bank shelter: roof damaged, food packs and medical kits requested.
+INC-00414|Riverside|Road blocked after landslide in Riverside; rescue vehicle access is delayed.
+INC-00415|Hillview|Road blocked after landslide in Hillview; rescue vehicle access is delayed.
+INC-00416|Market Ward|Missing-person request from Market Ward; family last saw residents near an evacuation route.
+INC-00417|Hillview|Medical emergency reported at Hillview relief centre; injured people require oxygen support.
+INC-00418|Hillview|Shelter shortage in Hillview; tents, food, water units and a generator are needed.
+INC-00419|Market Ward|Medical emergency reported at Market Ward relief centre; injured people require oxygen support.
+INC-00420|East Bank|Fire reported in East Bank; volunteers are moving residents to the nearest shelter.
+INC-00421|Market Ward|Missing-person request from Market Ward; family last saw residents near an evacuation route.
+INC-00422|Old Town|Medical emergency reported at Old Town relief centre; injured people require oxygen support.
+INC-00423|Greenfield|Medical emergency reported at Greenfield relief centre; injured people require oxygen support.
+INC-00424|Riverside|Cyclone damage near Riverside shelter: roof damaged, food packs and medical kits requested.
+INC-00425|East Bank|Shelter shortage in East Bank; tents, food, water units and a generator are needed.
+INC-00426|Riverside|Earthquake aftershock damaged buildings at Riverside; search teams report trapped residents.
+INC-00427|East Bank|Flood water entered East Bank homes; 69 residents require evacuation and clean water.
+INC-00428|Greenfield|Medical emergency reported at Greenfield relief centre; injured people require oxygen support.
+INC-00429|Old Town|Missing-person request from Old Town; family last saw residents near an evacuation route.
+INC-00430|Greenfield|Cyclone damage near Greenfield shelter: roof damaged, food packs and medical kits requested.
+INC-00431|Greenfield|Missing-person request from Greenfield; family last saw residents near an evacuation route.
+INC-00432|Greenfield|Cyclone damage near Greenfield shelter: roof damaged, food packs and medical kits requested.
+INC-00433|North Colony|Missing-person request from North Colony; family last saw residents near an evacuation route.
+INC-00434|Hillview|Missing-person request from Hillview; family last saw residents near an evacuation route.
+INC-00435|Riverside|Flood water entered Riverside homes; 42 residents require evacuation and clean water.
+INC-00436|Hillview|Missing-person request from Hillview; family last saw residents near an evacuation route.
+INC-00437|Hillview|Cyclone damage near Hillview shelter: roof damaged, food packs and medical kits requested.
+INC-00438|Riverside|Missing-person request from Riverside; family last saw residents near an evacuation route.
+INC-00439|Market Ward|Road blocked after landslide in Market Ward; rescue vehicle access is delayed.
+INC-00440|Riverside|Flood water entered Riverside homes; 39 residents require evacuation and clean water.
+INC-00441|Hillview|Fire reported in Hillview; volunteers are moving residents to the nearest shelter.
+INC-00442|Market Ward|Missing-person request from Market Ward; family last saw residents near an evacuation route.
+INC-00443|Old Town|Shelter shortage in Old Town; tents, food, water units and a generator are needed.
+INC-00444|East Bank|Fire reported in East Bank; volunteers are moving residents to the nearest shelter.
+INC-00445|Lakeside|Earthquake aftershock damaged buildings at Lakeside; search teams report trapped residents.
+INC-00446|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00447|Hillview|Medical emergency reported at Hillview relief centre; injured people require oxygen support.
+INC-00448|Hillview|Medical emergency reported at Hillview relief centre; injured people require oxygen support.
+INC-00449|Hillview|Cyclone damage near Hillview shelter: roof damaged, food packs and medical kits requested.
+INC-00450|Hillview|Flood water entered Hillview homes; 40 residents require evacuation and clean water.
+INC-00451|Riverside|Missing-person request from Riverside; family last saw residents near an evacuation route.
+INC-00452|Hillview|Road blocked after landslide in Hillview; rescue vehicle access is delayed.
+INC-00453|Market Ward|Earthquake aftershock damaged buildings at Market Ward; search teams report trapped residents.
+INC-00454|Lakeside|Fire reported in Lakeside; volunteers are moving residents to the nearest shelter.
+INC-00455|Old Town|Road blocked after landslide in Old Town; rescue vehicle access is delayed.
+INC-00456|Lakeside|Fire reported in Lakeside; volunteers are moving residents to the nearest shelter.
+INC-00457|Lakeside|Road blocked after landslide in Lakeside; rescue vehicle access is delayed.
+INC-00458|Old Town|Fire reported in Old Town; volunteers are moving residents to the nearest shelter.
+INC-00459|Market Ward|Shelter shortage in Market Ward; tents, food, water units and a generator are needed.
+INC-00460|Hillview|Fire reported in Hillview; volunteers are moving residents to the nearest shelter.
+INC-00461|North Colony|Missing-person request from North Colony; family last saw residents near an evacuation route.
+INC-00462|Old Town|Road blocked after landslide in Old Town; rescue vehicle access is delayed.
+INC-00463|Lakeside|Missing-person request from Lakeside; family last saw residents near an evacuation route.
+INC-00464|Greenfield|Missing-person request from Greenfield; family last saw residents near an evacuation route.
+INC-00465|Lakeside|Shelter shortage in Lakeside; tents, food, water units and a generator are needed.
+INC-00466|Riverside|Flood water entered Riverside homes; 80 residents require evacuation and clean water.
+INC-00467|East Bank|Shelter shortage in East Bank; tents, food, water units and a generator are needed.
+INC-00468|Old Town|Medical emergency reported at Old Town relief centre; injured people require oxygen support.
+INC-00469|Old Town|Flood water entered Old Town homes; 79 residents require evacuation and clean water.
+INC-00470|Lakeside|Road blocked after landslide in Lakeside; rescue vehicle access is delayed.
+INC-00471|Market Ward|Earthquake aftershock damaged buildings at Market Ward; search teams report trapped residents.
+INC-00472|Greenfield|Missing-person request from Greenfield; family last saw residents near an evacuation route.
+INC-00473|Market Ward|Medical emergency reported at Market Ward relief centre; injured people require oxygen support.
+INC-00474|East Bank|Flood water entered East Bank homes; 76 residents require evacuation and clean water.
+INC-00475|East Bank|Missing-person request from East Bank; family last saw residents near an evacuation route.
+INC-00476|Lakeside|Road blocked after landslide in Lakeside; rescue vehicle access is delayed.
+INC-00477|Hillview|Road blocked after landslide in Hillview; rescue vehicle access is delayed.
+INC-00478|Riverside|Medical emergency reported at Riverside relief centre; injured people require oxygen support.
+INC-00479|Greenfield|Earthquake aftershock damaged buildings at Greenfield; search teams report trapped residents.
+INC-00480|Greenfield|Cyclone damage near Greenfield shelter: roof damaged, food packs and medical kits requested.
+INC-00481|Greenfield|Medical emergency reported at Greenfield relief centre; injured people require oxygen support.
+INC-00482|East Bank|Cyclone damage near East Bank shelter: roof damaged, food packs and medical kits requested.
+INC-00483|East Bank|Cyclone damage near East Bank shelter: roof damaged, food packs and medical kits requested.
+INC-00484|Old Town|Fire reported in Old Town; volunteers are moving residents to the nearest shelter.
+INC-00485|North Colony|Road blocked after landslide in North Colony; rescue vehicle access is delayed.
+INC-00486|Hillview|Shelter shortage in Hillview; tents, food, water units and a generator are needed.
+INC-00487|North Colony|Cyclone damage near North Colony shelter: roof damaged, food packs and medical kits requested.
+INC-00488|Market Ward|Shelter shortage in Market Ward; tents, food, water units and a generator are needed.
+INC-00489|Market Ward|Missing-person request from Market Ward; family last saw residents near an evacuation route.
+INC-00490|Greenfield|Earthquake aftershock damaged buildings at Greenfield; search teams report trapped residents.
+INC-00491|Riverside|Cyclone damage near Riverside shelter: roof damaged, food packs and medical kits requested.
+INC-00492|Riverside|Shelter shortage in Riverside; tents, food, water units and a generator are needed.
+INC-00493|Lakeside|Road blocked after landslide in Lakeside; rescue vehicle access is delayed.
+INC-00494|East Bank|Road blocked after landslide in East Bank; rescue vehicle access is delayed.
+INC-00495|Hillview|Fire reported in Hillview; volunteers are moving residents to the nearest shelter.
+INC-00496|East Bank|Earthquake aftershock damaged buildings at East Bank; search teams report trapped residents.
+INC-00497|East Bank|Shelter shortage in East Bank; tents, food, water units and a generator are needed.
+INC-00498|Hillview|Cyclone damage near Hillview shelter: roof damaged, food packs and medical kits requested.
+INC-00499|Lakeside|Missing-person request from Lakeside; family last saw residents near an evacuation route.
+INC-00500|Market Ward|Earthquake aftershock damaged buildings at Market Ward; search teams report trapped residents.
+INC-00501|Riverside|Missing-person request from Riverside; family last saw residents near an evacuation route.
+INC-00502|Riverside|Road blocked after landslide in Riverside; rescue vehicle access is delayed.
+INC-00503|Hillview|Flood water entered Hillview homes; 44 residents require evacuation and clean water.
+INC-00504|East Bank|Road blocked after landslide in East Bank; rescue vehicle access is delayed.
+INC-00505|Hillview|Fire reported in Hillview; volunteers are moving residents to the nearest shelter.
+INC-00506|Market Ward|Flood water entered Market Ward homes; 62 residents require evacuation and clean water.
+INC-00507|Old Town|Earthquake aftershock damaged buildings at Old Town; search teams report trapped residents.
+INC-00508|North Colony|Road blocked after landslide in North Colony; rescue vehicle access is delayed.
+INC-00509|Riverside|Missing-person request from Riverside; family last saw residents near an evacuation route.
+INC-00510|Riverside|Shelter shortage in Riverside; tents, food, water units and a generator are needed.
+INC-00511|Hillview|Medical emergency reported at Hillview relief centre; injured people require oxygen support.
+INC-00512|Market Ward|Earthquake aftershock damaged buildings at Market Ward; search teams report trapped residents.
+INC-00513|East Bank|Fire reported in East Bank; volunteers are moving residents to the nearest shelter.
+INC-00514|Market Ward|Cyclone damage near Market Ward shelter: roof damaged, food packs and medical kits requested.
+INC-00515|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00516|Riverside|Missing-person request from Riverside; family last saw residents near an evacuation route.
+INC-00517|Market Ward|Road blocked after landslide in Market Ward; rescue vehicle access is delayed.
+INC-00518|Hillview|Road blocked after landslide in Hillview; rescue vehicle access is delayed.
+INC-00519|Hillview|Cyclone damage near Hillview shelter: roof damaged, food packs and medical kits requested.
+INC-00520|Hillview|Flood water entered Hillview homes; 47 residents require evacuation and clean water.
+INC-00521|Greenfield|Earthquake aftershock damaged buildings at Greenfield; search teams report trapped residents.
+INC-00522|Market Ward|Earthquake aftershock damaged buildings at Market Ward; search teams report trapped residents.
+INC-00523|North Colony|Missing-person request from North Colony; family last saw residents near an evacuation route.
+INC-00524|Old Town|Medical emergency reported at Old Town relief centre; injured people require oxygen support.
+INC-00525|Riverside|Missing-person request from Riverside; family last saw residents near an evacuation route.
+INC-00526|Greenfield|Missing-person request from Greenfield; family last saw residents near an evacuation route.
+INC-00527|East Bank|Flood water entered East Bank homes; 35 residents require evacuation and clean water.
+INC-00528|Lakeside|Flood water entered Lakeside homes; 45 residents require evacuation and clean water.
+INC-00529|Lakeside|Road blocked after landslide in Lakeside; rescue vehicle access is delayed.
+INC-00530|North Colony|Medical emergency reported at North Colony relief centre; injured people require oxygen support.
+INC-00531|Greenfield|Cyclone damage near Greenfield shelter: roof damaged, food packs and medical kits requested.
+INC-00532|East Bank|Medical emergency reported at East Bank relief centre; injured people require oxygen support.
+INC-00533|Riverside|Earthquake aftershock damaged buildings at Riverside; search teams report trapped residents.
+INC-00534|Old Town|Earthquake aftershock damaged buildings at Old Town; search teams report trapped residents.
+INC-00535|East Bank|Earthquake aftershock damaged buildings at East Bank; search teams report trapped residents.
+INC-00536|Old Town|Fire reported in Old Town; volunteers are moving residents to the nearest shelter.
+INC-00537|Lakeside|Earthquake aftershock damaged buildings at Lakeside; search teams report trapped residents.
+INC-00538|East Bank|Cyclone damage near East Bank shelter: roof damaged, food packs and medical kits requested.
+INC-00539|Lakeside|Cyclone damage near Lakeside shelter: roof damaged, food packs and medical kits requested.
+INC-00540|Lakeside|Earthquake aftershock damaged buildings at Lakeside; search teams report trapped residents.
+INC-00541|Riverside|Flood water entered Riverside homes; 19 residents require evacuation and clean water.
+INC-00542|North Colony|Medical emergency reported at North Colony relief centre; injured people require oxygen support.
+INC-00543|Market Ward|Flood water entered Market Ward homes; 79 residents require evacuation and clean water.
+INC-00544|Market Ward|Road blocked after landslide in Market Ward; rescue vehicle access is delayed.
+INC-00545|Old Town|Missing-person request from Old Town; family last saw residents near an evacuation route.
+INC-00546|Greenfield|Cyclone damage near Greenfield shelter: roof damaged, food packs and medical kits requested.
+INC-00547|North Colony|Flood water entered North Colony homes; 27 residents require evacuation and clean water.
+INC-00548|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00549|North Colony|Missing-person request from North Colony; family last saw residents near an evacuation route.
+INC-00550|East Bank|Medical emergency reported at East Bank relief centre; injured people require oxygen support.
+INC-00551|Market Ward|Flood water entered Market Ward homes; 71 residents require evacuation and clean water.
+INC-00552|Hillview|Fire reported in Hillview; volunteers are moving residents to the nearest shelter.
+INC-00553|Greenfield|Cyclone damage near Greenfield shelter: roof damaged, food packs and medical kits requested.
+INC-00554|Market Ward|Flood water entered Market Ward homes; 70 residents require evacuation and clean water.
+INC-00555|East Bank|Fire reported in East Bank; volunteers are moving residents to the nearest shelter.
+INC-00556|East Bank|Missing-person request from East Bank; family last saw residents near an evacuation route.
+INC-00557|North Colony|Flood water entered North Colony homes; 15 residents require evacuation and clean water.
+INC-00558|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00559|East Bank|Medical emergency reported at East Bank relief centre; injured people require oxygen support.
+INC-00560|Lakeside|Medical emergency reported at Lakeside relief centre; injured people require oxygen support.
+INC-00561|East Bank|Medical emergency reported at East Bank relief centre; injured people require oxygen support.
+INC-00562|Riverside|Road blocked after landslide in Riverside; rescue vehicle access is delayed.
+INC-00563|Hillview|Fire reported in Hillview; volunteers are moving residents to the nearest shelter.
+INC-00564|North Colony|Flood water entered North Colony homes; 65 residents require evacuation and clean water.
+INC-00565|North Colony|Flood water entered North Colony homes; 57 residents require evacuation and clean water.
+INC-00566|North Colony|Cyclone damage near North Colony shelter: roof damaged, food packs and medical kits requested.
+INC-00567|Lakeside|Flood water entered Lakeside homes; 76 residents require evacuation and clean water.
+INC-00568|Old Town|Medical emergency reported at Old Town relief centre; injured people require oxygen support.
+INC-00569|Lakeside|Missing-person request from Lakeside; family last saw residents near an evacuation route.
+INC-00570|Hillview|Shelter shortage in Hillview; tents, food, water units and a generator are needed.
+INC-00571|Lakeside|Fire reported in Lakeside; volunteers are moving residents to the nearest shelter.
+INC-00572|Hillview|Cyclone damage near Hillview shelter: roof damaged, food packs and medical kits requested.
+INC-00573|East Bank|Cyclone damage near East Bank shelter: roof damaged, food packs and medical kits requested.
+INC-00574|Lakeside|Cyclone damage near Lakeside shelter: roof damaged, food packs and medical kits requested.
+INC-00575|East Bank|Road blocked after landslide in East Bank; rescue vehicle access is delayed.
+INC-00576|Hillview|Missing-person request from Hillview; family last saw residents near an evacuation route.
+INC-00577|East Bank|Missing-person request from East Bank; family last saw residents near an evacuation route.
+INC-00578|Riverside|Medical emergency reported at Riverside relief centre; injured people require oxygen support.
+INC-00579|East Bank|Missing-person request from East Bank; family last saw residents near an evacuation route.
+INC-00580|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00581|Riverside|Missing-person request from Riverside; family last saw residents near an evacuation route.
+INC-00582|Lakeside|Medical emergency reported at Lakeside relief centre; injured people require oxygen support.
+INC-00583|Market Ward|Shelter shortage in Market Ward; tents, food, water units and a generator are needed.
+INC-00584|Greenfield|Flood water entered Greenfield homes; 52 residents require evacuation and clean water.
+INC-00585|Old Town|Flood water entered Old Town homes; 3 residents require evacuation and clean water.
+INC-00586|Hillview|Earthquake aftershock damaged buildings at Hillview; search teams report trapped residents.
+INC-00587|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00588|Riverside|Missing-person request from Riverside; family last saw residents near an evacuation route.
+INC-00589|East Bank|Fire reported in East Bank; volunteers are moving residents to the nearest shelter.
+INC-00590|Hillview|Cyclone damage near Hillview shelter: roof damaged, food packs and medical kits requested.
+INC-00591|Greenfield|Earthquake aftershock damaged buildings at Greenfield; search teams report trapped residents.
+INC-00592|East Bank|Road blocked after landslide in East Bank; rescue vehicle access is delayed.
+INC-00593|Lakeside|Flood water entered Lakeside homes; 4 residents require evacuation and clean water.
+INC-00594|Old Town|Missing-person request from Old Town; family last saw residents near an evacuation route.
+INC-00595|Lakeside|Flood water entered Lakeside homes; 31 residents require evacuation and clean water.
+INC-00596|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00597|North Colony|Fire reported in North Colony; volunteers are moving residents to the nearest shelter.
+INC-00598|Old Town|Cyclone damage near Old Town shelter: roof damaged, food packs and medical kits requested.
+INC-00599|Market Ward|Missing-person request from Market Ward; family last saw residents near an evacuation route.
+INC-00600|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00601|Old Town|Medical emergency reported at Old Town relief centre; injured people require oxygen support.
+INC-00602|Lakeside|Fire reported in Lakeside; volunteers are moving residents to the nearest shelter.
+INC-00603|North Colony|Earthquake aftershock damaged buildings at North Colony; search teams report trapped residents.
+INC-00604|Lakeside|Flood water entered Lakeside homes; 77 residents require evacuation and clean water.
+INC-00605|Hillview|Cyclone damage near Hillview shelter: roof damaged, food packs and medical kits requested.
+INC-00606|North Colony|Missing-person request from North Colony; family last saw residents near an evacuation route.
+INC-00607|Hillview|Flood water entered Hillview homes; 18 residents require evacuation and clean water.
+INC-00608|Hillview|Flood water entered Hillview homes; 68 residents require evacuation and clean water.
+INC-00609|Greenfield|Medical emergency reported at Greenfield relief centre; injured people require oxygen support.
+INC-00610|Market Ward|Flood water entered Market Ward homes; 60 residents require evacuation and clean water.
+INC-00611|Hillview|Earthquake aftershock damaged buildings at Hillview; search teams report trapped residents.
+INC-00612|Market Ward|Road blocked after landslide in Market Ward; rescue vehicle access is delayed.
+INC-00613|Market Ward|Shelter shortage in Market Ward; tents, food, water units and a generator are needed.
+INC-00614|Hillview|Missing-person request from Hillview; family last saw residents near an evacuation route.
+INC-00615|Riverside|Missing-person request from Riverside; family last saw residents near an evacuation route.
+INC-00616|Riverside|Fire reported in Riverside; volunteers are moving residents to the nearest shelter.
+INC-00617|Greenfield|Missing-person request from Greenfield; family last saw residents near an evacuation route.
+INC-00618|East Bank|Road blocked after landslide in East Bank; rescue vehicle access is delayed.
+INC-00619|Riverside|Flood water entered Riverside homes; 20 residents require evacuation and clean water.
+INC-00620|Lakeside|Cyclone damage near Lakeside shelter: roof damaged, food packs and medical kits requested.
+INC-00621|Riverside|Flood water entered Riverside homes; 68 residents require evacuation and clean water.
+INC-00622|Lakeside|Road blocked after landslide in Lakeside; rescue vehicle access is delayed.
+INC-00623|East Bank|Missing-person request from East Bank; family last saw residents near an evacuation route.
+INC-00624|Lakeside|Medical emergency reported at Lakeside relief centre; injured people require oxygen support.
+INC-00625|Old Town|Cyclone damage near Old Town shelter: roof damaged, food packs and medical kits requested.
+INC-00626|East Bank|Fire reported in East Bank; volunteers are moving residents to the nearest shelter.
+INC-00627|Lakeside|Medical emergency reported at Lakeside relief centre; injured people require oxygen support.
+INC-00628|Lakeside|Cyclone damage near Lakeside shelter: roof damaged, food packs and medical kits requested.
+INC-00629|Lakeside|Flood water entered Lakeside homes; 49 residents require evacuation and clean water.
+INC-00630|Hillview|Road blocked after landslide in Hillview; rescue vehicle access is delayed.
+INC-00631|Riverside|Missing-person request from Riverside; family last saw residents near an evacuation route.
+INC-00632|East Bank|Flood water entered East Bank homes; 2 residents require evacuation and clean water.
+INC-00633|Old Town|Earthquake aftershock damaged buildings at Old Town; search teams report trapped residents.
+INC-00634|Riverside|Cyclone damage near Riverside shelter: roof damaged, food packs and medical kits requested.
+INC-00635|Old Town|Medical emergency reported at Old Town relief centre; injured people require oxygen support.
+INC-00636|North Colony|Shelter shortage in North Colony; tents, food, water units and a generator are needed.
+INC-00637|Hillview|Flood water entered Hillview homes; 35 residents require evacuation and clean water.
+INC-00638|North Colony|Road blocked after landslide in North Colony; rescue vehicle access is delayed.
+INC-00639|North Colony|Medical emergency reported at North Colony relief centre; injured people require oxygen support.
+INC-00640|Old Town|Medical emergency reported at Old Town relief centre; injured people require oxygen support.
+INC-00641|Greenfield|Earthquake aftershock damaged buildings at Greenfield; search teams report trapped residents.
+INC-00642|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00643|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00644|East Bank|Missing-person request from East Bank; family last saw residents near an evacuation route.
+INC-00645|Greenfield|Fire reported in Greenfield; volunteers are moving residents to the nearest shelter.
+INC-00646|Lakeside|Shelter shortage in Lakeside; tents, food, water units and a generator are needed.
+INC-00647|Old Town|Medical emergency reported at Old Town relief centre; injured people require oxygen support.
+INC-00648|East Bank|Missing-person request from East Bank; family last saw residents near an evacuation route.
+INC-00649|East Bank|Shelter shortage in East Bank; tents, food, water units and a generator are needed.
+INC-00650|East Bank|Cyclone damage near East Bank shelter: roof damaged, food packs and medical kits requested.
+INC-00651|East Bank|Cyclone damage near East Bank shelter: roof damaged, food packs and medical kits requested.
+INC-00652|Old Town|Shelter shortage in Old Town; tents, food, water units and a generator are needed.
+INC-00653|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00654|Lakeside|Road blocked after landslide in Lakeside; rescue vehicle access is delayed.
+INC-00655|Greenfield|Road blocked after landslide in Greenfield; rescue vehicle access is delayed.
+INC-00656|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00657|Hillview|Flood water entered Hillview homes; 28 residents require evacuation and clean water.
+INC-00658|Riverside|Road blocked after landslide in Riverside; rescue vehicle access is delayed.
+INC-00659|Hillview|Flood water entered Hillview homes; 60 residents require evacuation and clean water.
+INC-00660|Riverside|Road blocked after landslide in Riverside; rescue vehicle access is delayed.
+INC-00661|East Bank|Medical emergency reported at East Bank relief centre; injured people require oxygen support.
+INC-00662|Hillview|Fire reported in Hillview; volunteers are moving residents to the nearest shelter.
+INC-00663|Riverside|Missing-person request from Riverside; family last saw residents near an evacuation route.
+INC-00664|East Bank|Missing-person request from East Bank; family last saw residents near an evacuation route.
+INC-00665|North Colony|Shelter shortage in North Colony; tents, food, water units and a generator are needed.
+INC-00666|Market Ward|Missing-person request from Market Ward; family last saw residents near an evacuation route.
+INC-00667|Lakeside|Earthquake aftershock damaged buildings at Lakeside; search teams report trapped residents.
+INC-00668|Lakeside|Flood water entered Lakeside homes; 58 residents require evacuation and clean water.
+INC-00669|North Colony|Fire reported in North Colony; volunteers are moving residents to the nearest shelter.
+INC-00670|North Colony|Missing-person request from North Colony; family last saw residents near an evacuation route.
+INC-00671|Market Ward|Shelter shortage in Market Ward; tents, food, water units and a generator are needed.
+INC-00672|Lakeside|Road blocked after landslide in Lakeside; rescue vehicle access is delayed.
+INC-00673|Market Ward|Earthquake aftershock damaged buildings at Market Ward; search teams report trapped residents.
+INC-00674|Riverside|Fire reported in Riverside; volunteers are moving residents to the nearest shelter.
+INC-00675|Old Town|Road blocked after landslide in Old Town; rescue vehicle access is delayed.
+INC-00676|East Bank|Cyclone damage near East Bank shelter: roof damaged, food packs and medical kits requested.
+INC-00677|Greenfield|Flood water entered Greenfield homes; 60 residents require evacuation and clean water.
+INC-00678|Hillview|Fire reported in Hillview; volunteers are moving residents to the nearest shelter.
+INC-00679|Market Ward|Road blocked after landslide in Market Ward; rescue vehicle access is delayed.
+INC-00680|Greenfield|Missing-person request from Greenfield; family last saw residents near an evacuation route.
+INC-00681|Greenfield|Missing-person request from Greenfield; family last saw residents near an evacuation route.
+INC-00682|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00683|East Bank|Road blocked after landslide in East Bank; rescue vehicle access is delayed.
+INC-00684|North Colony|Cyclone damage near North Colony shelter: roof damaged, food packs and medical kits requested.
+INC-00685|North Colony|Missing-person request from North Colony; family last saw residents near an evacuation route.
+INC-00686|Market Ward|Road blocked after landslide in Market Ward; rescue vehicle access is delayed.
+INC-00687|North Colony|Cyclone damage near North Colony shelter: roof damaged, food packs and medical kits requested.
+INC-00688|Greenfield|Road blocked after landslide in Greenfield; rescue vehicle access is delayed.
+INC-00689|Greenfield|Road blocked after landslide in Greenfield; rescue vehicle access is delayed.
+INC-00690|Market Ward|Cyclone damage near Market Ward shelter: roof damaged, food packs and medical kits requested.
+INC-00691|Market Ward|Missing-person request from Market Ward; family last saw residents near an evacuation route.
+INC-00692|Old Town|Flood water entered Old Town homes; 21 residents require evacuation and clean water.
+INC-00693|Hillview|Missing-person request from Hillview; family last saw residents near an evacuation route.
+INC-00694|North Colony|Shelter shortage in North Colony; tents, food, water units and a generator are needed.
+INC-00695|Market Ward|Flood water entered Market Ward homes; 6 residents require evacuation and clean water.
+INC-00696|Riverside|Shelter shortage in Riverside; tents, food, water units and a generator are needed.
+INC-00697|Old Town|Missing-person request from Old Town; family last saw residents near an evacuation route.
+INC-00698|Hillview|Missing-person request from Hillview; family last saw residents near an evacuation route.
+INC-00699|Greenfield|Flood water entered Greenfield homes; 60 residents require evacuation and clean water.
+INC-00700|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00701|Greenfield|Flood water entered Greenfield homes; 34 residents require evacuation and clean water.
+INC-00702|Lakeside|Missing-person request from Lakeside; family last saw residents near an evacuation route.
+INC-00703|Greenfield|Missing-person request from Greenfield; family last saw residents near an evacuation route.
+INC-00704|Lakeside|Shelter shortage in Lakeside; tents, food, water units and a generator are needed.
+INC-00705|Old Town|Cyclone damage near Old Town shelter: roof damaged, food packs and medical kits requested.
+INC-00706|Market Ward|Medical emergency reported at Market Ward relief centre; injured people require oxygen support.
+INC-00707|North Colony|Missing-person request from North Colony; family last saw residents near an evacuation route.
+INC-00708|Market Ward|Cyclone damage near Market Ward shelter: roof damaged, food packs and medical kits requested.
+INC-00709|Old Town|Fire reported in Old Town; volunteers are moving residents to the nearest shelter.
+INC-00710|Greenfield|Medical emergency reported at Greenfield relief centre; injured people require oxygen support.
+INC-00711|Old Town|Medical emergency reported at Old Town relief centre; injured people require oxygen support.
+INC-00712|Lakeside|Earthquake aftershock damaged buildings at Lakeside; search teams report trapped residents.
+INC-00713|East Bank|Cyclone damage near East Bank shelter: roof damaged, food packs and medical kits requested.
+INC-00714|Greenfield|Flood water entered Greenfield homes; 45 residents require evacuation and clean water.
+INC-00715|Old Town|Road blocked after landslide in Old Town; rescue vehicle access is delayed.
+INC-00716|North Colony|Road blocked after landslide in North Colony; rescue vehicle access is delayed.
+INC-00717|East Bank|Shelter shortage in East Bank; tents, food, water units and a generator are needed.
+INC-00718|Lakeside|Shelter shortage in Lakeside; tents, food, water units and a generator are needed.
+INC-00719|Old Town|Medical emergency reported at Old Town relief centre; injured people require oxygen support.
+INC-00720|Hillview|Shelter shortage in Hillview; tents, food, water units and a generator are needed.
+INC-00721|Old Town|Missing-person request from Old Town; family last saw residents near an evacuation route.
+INC-00722|North Colony|Shelter shortage in North Colony; tents, food, water units and a generator are needed.
+INC-00723|Riverside|Missing-person request from Riverside; family last saw residents near an evacuation route.
+INC-00724|Hillview|Missing-person request from Hillview; family last saw residents near an evacuation route.
+INC-00725|Market Ward|Medical emergency reported at Market Ward relief centre; injured people require oxygen support.
+INC-00726|Hillview|Road blocked after landslide in Hillview; rescue vehicle access is delayed.
+INC-00727|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00728|Old Town|Medical emergency reported at Old Town relief centre; injured people require oxygen support.
+INC-00729|Old Town|Medical emergency reported at Old Town relief centre; injured people require oxygen support.
+INC-00730|North Colony|Shelter shortage in North Colony; tents, food, water units and a generator are needed.
+INC-00731|Old Town|Missing-person request from Old Town; family last saw residents near an evacuation route.
+INC-00732|Riverside|Earthquake aftershock damaged buildings at Riverside; search teams report trapped residents.
+INC-00733|Lakeside|Road blocked after landslide in Lakeside; rescue vehicle access is delayed.
+INC-00734|Old Town|Missing-person request from Old Town; family last saw residents near an evacuation route.
+INC-00735|Market Ward|Medical emergency reported at Market Ward relief centre; injured people require oxygen support.
+INC-00736|Old Town|Cyclone damage near Old Town shelter: roof damaged, food packs and medical kits requested.
+INC-00737|Old Town|Earthquake aftershock damaged buildings at Old Town; search teams report trapped residents.
+INC-00738|Greenfield|Road blocked after landslide in Greenfield; rescue vehicle access is delayed.
+INC-00739|North Colony|Fire reported in North Colony; volunteers are moving residents to the nearest shelter.
+INC-00740|North Colony|Road blocked after landslide in North Colony; rescue vehicle access is delayed.
+INC-00741|Old Town|Shelter shortage in Old Town; tents, food, water units and a generator are needed.
+INC-00742|North Colony|Medical emergency reported at North Colony relief centre; injured people require oxygen support.
+INC-00743|Hillview|Fire reported in Hillview; volunteers are moving residents to the nearest shelter.
+INC-00744|Old Town|Cyclone damage near Old Town shelter: roof damaged, food packs and medical kits requested.
+INC-00745|Riverside|Fire reported in Riverside; volunteers are moving residents to the nearest shelter.
+INC-00746|East Bank|Shelter shortage in East Bank; tents, food, water units and a generator are needed.
+INC-00747|Greenfield|Road blocked after landslide in Greenfield; rescue vehicle access is delayed.
+INC-00748|Old Town|Flood water entered Old Town homes; 46 residents require evacuation and clean water.
+INC-00749|Greenfield|Medical emergency reported at Greenfield relief centre; injured people require oxygen support.
+INC-00750|Riverside|Earthquake aftershock damaged buildings at Riverside; search teams report trapped residents.
+INC-00751|Greenfield|Flood water entered Greenfield homes; 16 residents require evacuation and clean water.
+INC-00752|Greenfield|Flood water entered Greenfield homes; 48 residents require evacuation and clean water.
+INC-00753|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00754|Greenfield|Medical emergency reported at Greenfield relief centre; injured people require oxygen support.
+INC-00755|Greenfield|Missing-person request from Greenfield; family last saw residents near an evacuation route.
+INC-00756|North Colony|Fire reported in North Colony; volunteers are moving residents to the nearest shelter.
+INC-00757|Market Ward|Cyclone damage near Market Ward shelter: roof damaged, food packs and medical kits requested.
+INC-00758|Lakeside|Cyclone damage near Lakeside shelter: roof damaged, food packs and medical kits requested.
+INC-00759|North Colony|Missing-person request from North Colony; family last saw residents near an evacuation route.
+INC-00760|Hillview|Medical emergency reported at Hillview relief centre; injured people require oxygen support.
+INC-00761|Lakeside|Flood water entered Lakeside homes; 66 residents require evacuation and clean water.
+INC-00762|Market Ward|Road blocked after landslide in Market Ward; rescue vehicle access is delayed.
+INC-00763|Hillview|Medical emergency reported at Hillview relief centre; injured people require oxygen support.
+INC-00764|Market Ward|Road blocked after landslide in Market Ward; rescue vehicle access is delayed.
+INC-00765|Old Town|Fire reported in Old Town; volunteers are moving residents to the nearest shelter.
+INC-00766|Old Town|Cyclone damage near Old Town shelter: roof damaged, food packs and medical kits requested.
+INC-00767|Lakeside|Fire reported in Lakeside; volunteers are moving residents to the nearest shelter.
+INC-00768|Riverside|Shelter shortage in Riverside; tents, food, water units and a generator are needed.
+INC-00769|Old Town|Cyclone damage near Old Town shelter: roof damaged, food packs and medical kits requested.
+INC-00770|Hillview|Flood water entered Hillview homes; 16 residents require evacuation and clean water.
+INC-00771|Greenfield|Fire reported in Greenfield; volunteers are moving residents to the nearest shelter.
+INC-00772|Riverside|Fire reported in Riverside; volunteers are moving residents to the nearest shelter.
+INC-00773|Greenfield|Missing-person request from Greenfield; family last saw residents near an evacuation route.
+INC-00774|East Bank|Flood water entered East Bank homes; 70 residents require evacuation and clean water.
+INC-00775|Hillview|Road blocked after landslide in Hillview; rescue vehicle access is delayed.
+INC-00776|North Colony|Flood water entered North Colony homes; 17 residents require evacuation and clean water.
+INC-00777|Riverside|Cyclone damage near Riverside shelter: roof damaged, food packs and medical kits requested.
+INC-00778|East Bank|Fire reported in East Bank; volunteers are moving residents to the nearest shelter.
+INC-00779|Lakeside|Cyclone damage near Lakeside shelter: roof damaged, food packs and medical kits requested.
+INC-00780|Riverside|Flood water entered Riverside homes; 34 residents require evacuation and clean water.
+INC-00781|Old Town|Earthquake aftershock damaged buildings at Old Town; search teams report trapped residents.
+INC-00782|Hillview|Cyclone damage near Hillview shelter: roof damaged, food packs and medical kits requested.
+INC-00783|Hillview|Fire reported in Hillview; volunteers are moving residents to the nearest shelter.
+INC-00784|Old Town|Missing-person request from Old Town; family last saw residents near an evacuation route.
+INC-00785|Market Ward|Cyclone damage near Market Ward shelter: roof damaged, food packs and medical kits requested.
+INC-00786|Lakeside|Shelter shortage in Lakeside; tents, food, water units and a generator are needed.
+INC-00787|Market Ward|Missing-person request from Market Ward; family last saw residents near an evacuation route.
+INC-00788|Hillview|Flood water entered Hillview homes; 27 residents require evacuation and clean water.
+INC-00789|Riverside|Flood water entered Riverside homes; 54 residents require evacuation and clean water.
+INC-00790|Lakeside|Earthquake aftershock damaged buildings at Lakeside; search teams report trapped residents.
+INC-00791|Lakeside|Road blocked after landslide in Lakeside; rescue vehicle access is delayed.
+INC-00792|Market Ward|Shelter shortage in Market Ward; tents, food, water units and a generator are needed.
+INC-00793|Market Ward|Road blocked after landslide in Market Ward; rescue vehicle access is delayed.
+INC-00794|East Bank|Earthquake aftershock damaged buildings at East Bank; search teams report trapped residents.
+INC-00795|Hillview|Cyclone damage near Hillview shelter: roof damaged, food packs and medical kits requested.
+INC-00796|Hillview|Road blocked after landslide in Hillview; rescue vehicle access is delayed.
+INC-00797|Market Ward|Shelter shortage in Market Ward; tents, food, water units and a generator are needed.
+INC-00798|East Bank|Fire reported in East Bank; volunteers are moving residents to the nearest shelter.
+INC-00799|Lakeside|Shelter shortage in Lakeside; tents, food, water units and a generator are needed.
+INC-00800|Hillview|Fire reported in Hillview; volunteers are moving residents to the nearest shelter.
+INC-00801|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00802|North Colony|Earthquake aftershock damaged buildings at North Colony; search teams report trapped residents.
+INC-00803|East Bank|Fire reported in East Bank; volunteers are moving residents to the nearest shelter.
+INC-00804|Riverside|Cyclone damage near Riverside shelter: roof damaged, food packs and medical kits requested.
+INC-00805|Market Ward|Shelter shortage in Market Ward; tents, food, water units and a generator are needed.
+INC-00806|North Colony|Cyclone damage near North Colony shelter: roof damaged, food packs and medical kits requested.
+INC-00807|East Bank|Medical emergency reported at East Bank relief centre; injured people require oxygen support.
+INC-00808|Old Town|Medical emergency reported at Old Town relief centre; injured people require oxygen support.
+INC-00809|Hillview|Medical emergency reported at Hillview relief centre; injured people require oxygen support.
+INC-00810|Hillview|Shelter shortage in Hillview; tents, food, water units and a generator are needed.
+INC-00811|Riverside|Earthquake aftershock damaged buildings at Riverside; search teams report trapped residents.
+INC-00812|Old Town|Missing-person request from Old Town; family last saw residents near an evacuation route.
+INC-00813|East Bank|Shelter shortage in East Bank; tents, food, water units and a generator are needed.
+INC-00814|Riverside|Medical emergency reported at Riverside relief centre; injured people require oxygen support.
+INC-00815|Riverside|Missing-person request from Riverside; family last saw residents near an evacuation route.
+INC-00816|Market Ward|Missing-person request from Market Ward; family last saw residents near an evacuation route.
+INC-00817|Greenfield|Earthquake aftershock damaged buildings at Greenfield; search teams report trapped residents.
+INC-00818|Market Ward|Shelter shortage in Market Ward; tents, food, water units and a generator are needed.
+INC-00819|Riverside|Medical emergency reported at Riverside relief centre; injured people require oxygen support.
+INC-00820|Lakeside|Shelter shortage in Lakeside; tents, food, water units and a generator are needed.
+INC-00821|Market Ward|Earthquake aftershock damaged buildings at Market Ward; search teams report trapped residents.
+INC-00822|North Colony|Fire reported in North Colony; volunteers are moving residents to the nearest shelter.
+INC-00823|North Colony|Earthquake aftershock damaged buildings at North Colony; search teams report trapped residents.
+INC-00824|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00825|Riverside|Fire reported in Riverside; volunteers are moving residents to the nearest shelter.
+INC-00826|Market Ward|Road blocked after landslide in Market Ward; rescue vehicle access is delayed.
+INC-00827|Riverside|Road blocked after landslide in Riverside; rescue vehicle access is delayed.
+INC-00828|North Colony|Missing-person request from North Colony; family last saw residents near an evacuation route.
+INC-00829|Greenfield|Fire reported in Greenfield; volunteers are moving residents to the nearest shelter.
+INC-00830|Market Ward|Road blocked after landslide in Market Ward; rescue vehicle access is delayed.
+INC-00831|Greenfield|Earthquake aftershock damaged buildings at Greenfield; search teams report trapped residents.
+INC-00832|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00833|Hillview|Missing-person request from Hillview; family last saw residents near an evacuation route.
+INC-00834|Riverside|Road blocked after landslide in Riverside; rescue vehicle access is delayed.
+INC-00835|Hillview|Earthquake aftershock damaged buildings at Hillview; search teams report trapped residents.
+INC-00836|North Colony|Shelter shortage in North Colony; tents, food, water units and a generator are needed.
+INC-00837|North Colony|Missing-person request from North Colony; family last saw residents near an evacuation route.
+INC-00838|North Colony|Medical emergency reported at North Colony relief centre; injured people require oxygen support.
+INC-00839|North Colony|Flood water entered North Colony homes; 37 residents require evacuation and clean water.
+INC-00840|Old Town|Missing-person request from Old Town; family last saw residents near an evacuation route.
+INC-00841|North Colony|Medical emergency reported at North Colony relief centre; injured people require oxygen support.
+INC-00842|Hillview|Earthquake aftershock damaged buildings at Hillview; search teams report trapped residents.
+INC-00843|Lakeside|Fire reported in Lakeside; volunteers are moving residents to the nearest shelter.
+INC-00844|Greenfield|Earthquake aftershock damaged buildings at Greenfield; search teams report trapped residents.
+INC-00845|Hillview|Shelter shortage in Hillview; tents, food, water units and a generator are needed.
+INC-00846|East Bank|Missing-person request from East Bank; family last saw residents near an evacuation route.
+INC-00847|East Bank|Cyclone damage near East Bank shelter: roof damaged, food packs and medical kits requested.
+INC-00848|East Bank|Shelter shortage in East Bank; tents, food, water units and a generator are needed.
+INC-00849|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00850|Market Ward|Road blocked after landslide in Market Ward; rescue vehicle access is delayed.
+INC-00851|Lakeside|Flood water entered Lakeside homes; 3 residents require evacuation and clean water.
+INC-00852|North Colony|Earthquake aftershock damaged buildings at North Colony; search teams report trapped residents.
+INC-00853|Greenfield|Medical emergency reported at Greenfield relief centre; injured people require oxygen support.
+INC-00854|Hillview|Medical emergency reported at Hillview relief centre; injured people require oxygen support.
+INC-00855|Hillview|Cyclone damage near Hillview shelter: roof damaged, food packs and medical kits requested.
+INC-00856|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00857|East Bank|Fire reported in East Bank; volunteers are moving residents to the nearest shelter.
+INC-00858|Riverside|Fire reported in Riverside; volunteers are moving residents to the nearest shelter.
+INC-00859|Riverside|Fire reported in Riverside; volunteers are moving residents to the nearest shelter.
+INC-00860|Riverside|Earthquake aftershock damaged buildings at Riverside; search teams report trapped residents.
+INC-00861|Riverside|Cyclone damage near Riverside shelter: roof damaged, food packs and medical kits requested.
+INC-00862|Old Town|Fire reported in Old Town; volunteers are moving residents to the nearest shelter.
+INC-00863|Hillview|Earthquake aftershock damaged buildings at Hillview; search teams report trapped residents.
+INC-00864|Market Ward|Road blocked after landslide in Market Ward; rescue vehicle access is delayed.
+INC-00865|Hillview|Missing-person request from Hillview; family last saw residents near an evacuation route.
+INC-00866|Hillview|Flood water entered Hillview homes; 20 residents require evacuation and clean water.
+INC-00867|North Colony|Missing-person request from North Colony; family last saw residents near an evacuation route.
+INC-00868|Market Ward|Shelter shortage in Market Ward; tents, food, water units and a generator are needed.
+INC-00869|Hillview|Fire reported in Hillview; volunteers are moving residents to the nearest shelter.
+INC-00870|Hillview|Fire reported in Hillview; volunteers are moving residents to the nearest shelter.
+INC-00871|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00872|North Colony|Earthquake aftershock damaged buildings at North Colony; search teams report trapped residents.
+INC-00873|Greenfield|Missing-person request from Greenfield; family last saw residents near an evacuation route.
+INC-00874|East Bank|Shelter shortage in East Bank; tents, food, water units and a generator are needed.
+INC-00875|Hillview|Flood water entered Hillview homes; 7 residents require evacuation and clean water.
+INC-00876|Market Ward|Medical emergency reported at Market Ward relief centre; injured people require oxygen support.
+INC-00877|Riverside|Cyclone damage near Riverside shelter: roof damaged, food packs and medical kits requested.
+INC-00878|Riverside|Cyclone damage near Riverside shelter: roof damaged, food packs and medical kits requested.
+INC-00879|North Colony|Road blocked after landslide in North Colony; rescue vehicle access is delayed.
+INC-00880|North Colony|Flood water entered North Colony homes; 64 residents require evacuation and clean water.
+INC-00881|North Colony|Fire reported in North Colony; volunteers are moving residents to the nearest shelter.
+INC-00882|North Colony|Cyclone damage near North Colony shelter: roof damaged, food packs and medical kits requested.
+INC-00883|Greenfield|Earthquake aftershock damaged buildings at Greenfield; search teams report trapped residents.
+INC-00884|Riverside|Shelter shortage in Riverside; tents, food, water units and a generator are needed.
+INC-00885|Market Ward|Earthquake aftershock damaged buildings at Market Ward; search teams report trapped residents.
+INC-00886|Market Ward|Medical emergency reported at Market Ward relief centre; injured people require oxygen support.
+INC-00887|Hillview|Road blocked after landslide in Hillview; rescue vehicle access is delayed.
+INC-00888|Hillview|Shelter shortage in Hillview; tents, food, water units and a generator are needed.
+INC-00889|Hillview|Earthquake aftershock damaged buildings at Hillview; search teams report trapped residents.
+INC-00890|Hillview|Road blocked after landslide in Hillview; rescue vehicle access is delayed.
+INC-00891|Riverside|Earthquake aftershock damaged buildings at Riverside; search teams report trapped residents.
+INC-00892|Hillview|Shelter shortage in Hillview; tents, food, water units and a generator are needed.
+INC-00893|Hillview|Shelter shortage in Hillview; tents, food, water units and a generator are needed.
+INC-00894|North Colony|Shelter shortage in North Colony; tents, food, water units and a generator are needed.
+INC-00895|Riverside|Shelter shortage in Riverside; tents, food, water units and a generator are needed.
+INC-00896|Market Ward|Earthquake aftershock damaged buildings at Market Ward; search teams report trapped residents.
+INC-00897|Riverside|Fire reported in Riverside; volunteers are moving residents to the nearest shelter.
+INC-00898|Lakeside|Earthquake aftershock damaged buildings at Lakeside; search teams report trapped residents.
+INC-00899|East Bank|Medical emergency reported at East Bank relief centre; injured people require oxygen support.
+INC-00900|Old Town|Fire reported in Old Town; volunteers are moving residents to the nearest shelter.
+INC-00901|East Bank|Flood water entered East Bank homes; 6 residents require evacuation and clean water.
+INC-00902|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00903|Lakeside|Earthquake aftershock damaged buildings at Lakeside; search teams report trapped residents.
+INC-00904|Old Town|Flood water entered Old Town homes; 20 residents require evacuation and clean water.
+INC-00905|East Bank|Flood water entered East Bank homes; 46 residents require evacuation and clean water.
+INC-00906|Greenfield|Fire reported in Greenfield; volunteers are moving residents to the nearest shelter.
+INC-00907|Lakeside|Fire reported in Lakeside; volunteers are moving residents to the nearest shelter.
+INC-00908|Lakeside|Road blocked after landslide in Lakeside; rescue vehicle access is delayed.
+INC-00909|Lakeside|Road blocked after landslide in Lakeside; rescue vehicle access is delayed.
+INC-00910|East Bank|Road blocked after landslide in East Bank; rescue vehicle access is delayed.
+INC-00911|Old Town|Earthquake aftershock damaged buildings at Old Town; search teams report trapped residents.
+INC-00912|Hillview|Flood water entered Hillview homes; 66 residents require evacuation and clean water.
+INC-00913|Hillview|Road blocked after landslide in Hillview; rescue vehicle access is delayed.
+INC-00914|Lakeside|Flood water entered Lakeside homes; 43 residents require evacuation and clean water.
+INC-00915|Hillview|Cyclone damage near Hillview shelter: roof damaged, food packs and medical kits requested.
+INC-00916|East Bank|Cyclone damage near East Bank shelter: roof damaged, food packs and medical kits requested.
+INC-00917|Market Ward|Earthquake aftershock damaged buildings at Market Ward; search teams report trapped residents.
+INC-00918|Lakeside|Medical emergency reported at Lakeside relief centre; injured people require oxygen support.
+INC-00919|North Colony|Earthquake aftershock damaged buildings at North Colony; search teams report trapped residents.
+INC-00920|Market Ward|Earthquake aftershock damaged buildings at Market Ward; search teams report trapped residents.
+INC-00921|Greenfield|Medical emergency reported at Greenfield relief centre; injured people require oxygen support.
+INC-00922|Hillview|Earthquake aftershock damaged buildings at Hillview; search teams report trapped residents.
+INC-00923|Greenfield|Fire reported in Greenfield; volunteers are moving residents to the nearest shelter.
+INC-00924|Old Town|Fire reported in Old Town; volunteers are moving residents to the nearest shelter.
+INC-00925|Lakeside|Cyclone damage near Lakeside shelter: roof damaged, food packs and medical kits requested.
+INC-00926|Greenfield|Fire reported in Greenfield; volunteers are moving residents to the nearest shelter.
+INC-00927|Riverside|Shelter shortage in Riverside; tents, food, water units and a generator are needed.
+INC-00928|Hillview|Missing-person request from Hillview; family last saw residents near an evacuation route.
+INC-00929|Market Ward|Fire reported in Market Ward; volunteers are moving residents to the nearest shelter.
+INC-00930|North Colony|Road blocked after landslide in North Colony; rescue vehicle access is delayed.
+INC-00931|Market Ward|Road blocked after landslide in Market Ward; rescue vehicle access is delayed.
+INC-00932|Riverside|Cyclone damage near Riverside shelter: roof damaged, food packs and medical kits requested.
+INC-00933|Old Town|Flood water entered Old Town homes; 51 residents require evacuation and clean water.
+INC-00934|Lakeside|Fire reported in Lakeside; volunteers are moving residents to the nearest shelter.
+INC-00935|North Colony|Medical emergency reported at North Colony relief centre; injured people require oxygen support.
+INC-00936|Market Ward|Earthquake aftershock damaged buildings at Market Ward; search teams report trapped residents.
+INC-00937|Greenfield|Earthquake aftershock damaged buildings at Greenfield; search teams report trapped residents.
+INC-00938|Riverside|Medical emergency reported at Riverside relief centre; injured people require oxygen support.
+INC-00939|Riverside|Earthquake aftershock damaged buildings at Riverside; search teams report trapped residents.
+INC-00940|North Colony|Shelter shortage in North Colony; tents, food, water units and a generator are needed.
+INC-00941|North Colony|Cyclone damage near North Colony shelter: roof damaged, food packs and medical kits requested.
+INC-00942|Hillview|Earthquake aftershock damaged buildings at Hillview; search teams report trapped residents.
+INC-00943|North Colony|Missing-person request from North Colony; family last saw residents near an evacuation route.
+INC-00944|East Bank|Missing-person request from East Bank; family last saw residents near an evacuation route.
+INC-00945|Greenfield|Earthquake aftershock damaged buildings at Greenfield; search teams report trapped residents.
+INC-00946|Old Town|Earthquake aftershock damaged buildings at Old Town; search teams report trapped residents.
+INC-00947|Hillview|Missing-person request from Hillview; family last saw residents near an evacuation route.
+INC-00948|Hillview|Shelter shortage in Hillview; tents, food, water units and a generator are needed.
+INC-00949|Lakeside|Cyclone damage near Lakeside shelter: roof damaged, food packs and medical kits requested.
+INC-00950|East Bank|Fire reported in East Bank; volunteers are moving residents to the nearest shelter.
+INC-00951|Riverside|Shelter shortage in Riverside; tents, food, water units and a generator are needed.
+INC-00952|Lakeside|Earthquake aftershock damaged buildings at Lakeside; search teams report trapped residents.
+INC-00953|Market Ward|Medical emergency reported at Market Ward relief centre; injured people require oxygen support.
+INC-00954|Market Ward|Cyclone damage near Market Ward shelter: roof damaged, food packs and medical kits requested.
+INC-00955|Market Ward|Medical emergency reported at Market Ward relief centre; injured people require oxygen support.
+INC-00956|Riverside|Missing-person request from Riverside; family last saw residents near an evacuation route.
+INC-00957|North Colony|Flood water entered North Colony homes; 38 residents require evacuation and clean water.
+INC-00958|Lakeside|Shelter shortage in Lakeside; tents, food, water units and a generator are needed.
+INC-00959|North Colony|Road blocked after landslide in North Colony; rescue vehicle access is delayed.
+INC-00960|Lakeside|Shelter shortage in Lakeside; tents, food, water units and a generator are needed.
+INC-00961|Lakeside|Cyclone damage near Lakeside shelter: roof damaged, food packs and medical kits requested.
+INC-00962|Riverside|Flood water entered Riverside homes; 26 residents require evacuation and clean water.
+INC-00963|Old Town|Shelter shortage in Old Town; tents, food, water units and a generator are needed.
+INC-00964|North Colony|Shelter shortage in North Colony; tents, food, water units and a generator are needed.
+INC-00965|East Bank|Missing-person request from East Bank; family last saw residents near an evacuation route.
+INC-00966|Market Ward|Medical emergency reported at Market Ward relief centre; injured people require oxygen support.
+INC-00967|Market Ward|Shelter shortage in Market Ward; tents, food, water units and a generator are needed.
+INC-00968|Old Town|Shelter shortage in Old Town; tents, food, water units and a generator are needed.
+INC-00969|Riverside|Cyclone damage near Riverside shelter: roof damaged, food packs and medical kits requested.
+INC-00970|East Bank|Cyclone damage near East Bank shelter: roof damaged, food packs and medical kits requested.
+INC-00971|Hillview|Road blocked after landslide in Hillview; rescue vehicle access is delayed.
+INC-00972|North Colony|Shelter shortage in North Colony; tents, food, water units and a generator are needed.
+INC-00973|Lakeside|Missing-person request from Lakeside; family last saw residents near an evacuation route.
+INC-00974|Lakeside|Cyclone damage near Lakeside shelter: roof damaged, food packs and medical kits requested.
+INC-00975|Lakeside|Cyclone damage near Lakeside shelter: roof damaged, food packs and medical kits requested.
+INC-00976|Greenfield|Cyclone damage near Greenfield shelter: roof damaged, food packs and medical kits requested.
+INC-00977|North Colony|Fire reported in North Colony; volunteers are moving residents to the nearest shelter.
+INC-00978|Market Ward|Flood water entered Market Ward homes; 56 residents require evacuation and clean water.
+INC-00979|Riverside|Flood water entered Riverside homes; 38 residents require evacuation and clean water.
+INC-00980|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00981|Lakeside|Cyclone damage near Lakeside shelter: roof damaged, food packs and medical kits requested.
+INC-00982|Market Ward|Shelter shortage in Market Ward; tents, food, water units and a generator are needed.
+INC-00983|Hillview|Fire reported in Hillview; volunteers are moving residents to the nearest shelter.
+INC-00984|Lakeside|Medical emergency reported at Lakeside relief centre; injured people require oxygen support.
+INC-00985|Market Ward|Flood water entered Market Ward homes; 60 residents require evacuation and clean water.
+INC-00986|North Colony|Missing-person request from North Colony; family last saw residents near an evacuation route.
+INC-00987|East Bank|Flood water entered East Bank homes; 68 residents require evacuation and clean water.
+INC-00988|Riverside|Missing-person request from Riverside; family last saw residents near an evacuation route.
+INC-00989|Lakeside|Flood water entered Lakeside homes; 39 residents require evacuation and clean water.
+INC-00990|Greenfield|Shelter shortage in Greenfield; tents, food, water units and a generator are needed.
+INC-00991|Market Ward|Flood water entered Market Ward homes; 20 residents require evacuation and clean water.
+INC-00992|Market Ward|Earthquake aftershock damaged buildings at Market Ward; search teams report trapped residents.
+INC-00993|Hillview|Missing-person request from Hillview; family last saw residents near an evacuation route.
+INC-00994|Hillview|Earthquake aftershock damaged buildings at Hillview; search teams report trapped residents.
+INC-00995|Hillview|Earthquake aftershock damaged buildings at Hillview; search teams report trapped residents.
+INC-00996|North Colony|Missing-person request from North Colony; family last saw residents near an evacuation route.
+INC-00997|Old Town|Missing-person request from Old Town; family last saw residents near an evacuation route.
+INC-00998|East Bank|Shelter shortage in East Bank; tents, food, water units and a generator are needed.
+INC-00999|Greenfield|Fire reported in Greenfield; volunteers are moving residents to the nearest shelter.
+INC-01000|Market Ward|Medical emergency reported at Market Ward relief centre; injured people require oxygen support.

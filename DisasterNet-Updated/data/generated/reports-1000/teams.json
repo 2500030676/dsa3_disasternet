@@ -1,0 +1,6 @@
+[
+  {"team":"Alpha","skills":["flood rescue","evacuation"],"capacity":12},
+  {"team":"Bravo","skills":["medical","fire response"],"capacity":10},
+  {"team":"Charlie","skills":["shelter support","food distribution"],"capacity":15},
+  {"team":"Delta","skills":["search and rescue","landslide"],"capacity":8}
+]

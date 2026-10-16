@@ -1,0 +1,2 @@
+# Java 17+ (no third-party runtime dependencies)
+# Optional: Maven 3.9+ to run tests and package the project.

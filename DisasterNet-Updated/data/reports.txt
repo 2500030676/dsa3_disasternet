@@ -1,0 +1,5 @@
+INC-101|Riverside|Flood water entered residential buildings; three people are trapped and need oxygen.
+INC-102|Hillview|Road blocked after heavy rainfall and a landslide; evacuation requested.
+INC-103|Market Ward|Medical emergency near shelter; injured child needs medical support.
+INC-104|Old Town|Fire and smoke reported; missing residents may be inside a collapsed building.
+INC-105|Riverside|Flood water entered homes again; food and clean water shortages reported.

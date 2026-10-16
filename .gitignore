@@ -1,0 +1,9 @@
+# Java build output
+DisasterNet-Updated/target/
+
+# Local presentation previews and intermediate artifacts
+.presentation-build/
+presentation-output/*.inspect.ndjson
+
+# Duplicate archives of the source project
+*.zip
